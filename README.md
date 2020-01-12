@@ -28,6 +28,7 @@ Operating system: Windows 10 64bit
 * `utils.py` contains frequently used function, e.g. for visualization.
 * `build\steps.pyd` compiled python module.
 * `StampMe.cmd` renames module file inside 'build' folder. Windows sometimes locks files.
+
 For more, see docstrings inside files.
 ### Compilation
 To compile the python module, just run:
